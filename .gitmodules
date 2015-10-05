@@ -1,0 +1,18 @@
+[submodule ".vim/bundle/ctrlp.vim"]
+	path = .vim/bundle/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule ".vim/bundle/nerdtree"]
+	path = .vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule ".vim/bundle/powerline"]
+	path = .vim/bundle/powerline
+	url = https://github.com/Lokaltog/powerline.git
+[submodule ".vim/bundle/syntastic"]
+	path = .vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule ".vim/colors/vim-abra"]
+	path = .vim/colors/vim-abra
+	url = https://github.com/abra/vim-abra.git
+[submodule ".vim/colors/blackboard"]
+	path = .vim/colors/blackboard
+	url = https://github.com/ratazzi/blackboard.vim.git
