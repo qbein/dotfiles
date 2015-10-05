@@ -2,7 +2,7 @@
 	name = Kurt Aadnoy
 	email = kurt@aadnoy.com
 [core]
-	editor = subl -n -w
+	editor = vim
 	excludesfile = /Users/kurt/.gitignore
 [color]
 	ui = true
