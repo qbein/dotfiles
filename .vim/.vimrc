@@ -6,6 +6,7 @@ syntax on
 
 colorscheme abra
 
+set backspace=indent,eol,start
 set autoindent
 set copyindent
 set ruler
