@@ -48,6 +48,6 @@ gitdirs() {
             echo;
         fi
 
-        popd > /dev/null
+        popd &> /dev/null
     done
 }
