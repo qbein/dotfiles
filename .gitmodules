@@ -10,9 +10,9 @@
 [submodule ".vim/bundle/syntastic"]
 	path = .vim/bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
-[submodule ".vim/colors/vim-abra"]
-	path = .vim/colors/vim-abra
-	url = https://github.com/abra/vim-abra.git
 [submodule ".vim/colors/blackboard"]
 	path = .vim/colors/blackboard
 	url = https://github.com/ratazzi/blackboard.vim.git
+[submodule ".vim/colors/abra"]
+	path = .vim/colors/abra
+	url = https://github.com/mlitwiniuk/vim-abra.git

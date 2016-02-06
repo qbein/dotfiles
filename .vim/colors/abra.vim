@@ -1,1 +1,1 @@
-vim-abra/colors/abra.vim
+abra/colors/abra.vim
