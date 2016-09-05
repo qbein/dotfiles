@@ -1,6 +1,5 @@
 [user]
 	name = Kurt Aadnoy
-	email = kurt@aadnoy.com
 [core]
 	editor = vim
 	excludesfile = /Users/kurt/.gitignore
@@ -17,16 +16,3 @@
 	unstage = reset HEAD --
 	last = log -1 HEAD
 	df = diff
-[difftool "Kaleidoscope"]
-	cmd = ksdiff --partial-changeset --relative-path \"$MERGED\" -- \"$LOCAL\" \"$REMOTE\"
-[diff]
-	tool = Kaleidoscope
-[difftool]
-	prompt = false
-[mergetool "Kaleidoscope"]
-	cmd = ksdiff --merge --output \"$MERGED\" --base \"$BASE\" -- \"$LOCAL\" --snapshot \"$REMOTE\" --snapshot
-	trustExitCode = true
-[mergetool]
-	prompt = false
-[merge]
-	tool = Kaleidoscope
